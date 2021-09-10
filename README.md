@@ -38,7 +38,7 @@ After the 3rd step, click the switch to enable all subnet rules.
 
 <img src="https://github.com/gps949/tailscale_jumpserver/raw/main/imgs/step3-2.png" width="50%" />   
 
-## Step3. Bob can enjoy Alice service A through Tailscale® jump server now!   
+## Step4. Bob can enjoy Alice service A through Tailscale® jump server now!   
 Bob need to install the Tailscale client on his device first if he didn't do that in Step 2.   
 Bob should ensure he has already logged in the Tailscale® client and enabled the subnet.   
 
