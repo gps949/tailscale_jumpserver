@@ -5,3 +5,5 @@ until /app/tailscale up --authkey=${TS_AUTHKEY} --hostname=${SERVER_NAME} --acce
 do
     sleep 0.1
 done
+
+sh
